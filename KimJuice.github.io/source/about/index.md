@@ -1,4 +1,4 @@
 ---
 title: about
-commens: false
+comments: false
 ---
