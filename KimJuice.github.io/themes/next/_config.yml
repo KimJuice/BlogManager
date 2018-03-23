@@ -359,7 +359,7 @@ sidebar_width:
 # ---------------------------------------------------------------
 font:
   enable: true
-
+  use_font_lato: false
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
   host:
 
